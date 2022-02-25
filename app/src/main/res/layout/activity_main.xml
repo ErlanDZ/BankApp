@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+<!--    <TextView-->
+<!--        android:id="@+id/txt_title"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center_horizontal"-->
+<!--        android:layout_marginTop="64dp"-->
+<!--        android:text="@string/security_screen"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:textSize="20sp"-->
+<!--        android:textStyle="bold" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/txt_title2"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center_horizontal"-->
+<!--        android:layout_marginTop="68dp"-->
+<!--        android:text="@string/enter_your_passcode_or_create"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:textSize="16sp" />-->
+
+
+
+
+    <!--    <LinearLayout-->
+    <!--        android:layout_marginTop="26dp"-->
+    <!--        android:orientation="horizontal"-->
+    <!--        android:layout_gravity="center"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content">-->
+
+    <!--        <ImageView-->
+    <!--            android:id="@+id/image_oval1"-->
+    <!--            android:src="@drawable/oval"-->
+    <!--            android:layout_marginHorizontal="23dp"-->
+    <!--            style="@style/Ovals"/>-->
+
+    <!--        <ImageView-->
+    <!--            android:id="@+id/image_oval2"-->
+    <!--            android:src="@drawable/oval"-->
+    <!--            android:layout_marginHorizontal="23dp"-->
+    <!--            style="@style/Ovals"/>-->
+
+    <!--        <ImageView-->
+    <!--            android:id="@+id/image_oval3"-->
+    <!--            android:src="@drawable/oval"-->
+    <!--            android:layout_marginHorizontal="23dp"-->
+    <!--            style="@style/Ovals"/>-->
+
+    <!--        <ImageView-->
+    <!--            android:id="@+id/image_oval4"-->
+    <!--            android:src="@drawable/oval"-->
+    <!--            android:layout_marginHorizontal="23dp"-->
+    <!--            style="@style/Ovals"/>-->
+
+    <!--    </LinearLayout>-->
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:layout_marginTop="@dimen/dp50"-->
+<!--        android:orientation="vertical">-->
+
+
+        <!--        <LinearLayout-->
+        <!--            android:layout_weight="1"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="0dp"-->
+        <!--            android:orientation="horizontal">-->
+
+        <!--            <TextView-->
+        <!--                android:id="@+id/number1"-->
+        <!--                android:text="@string/one"-->
+        <!--                style="@style/Buttons"/>-->
+
+        <!--            <TextView-->
+        <!--                android:id="@+id/number2"-->
+        <!--                android:text="@string/two"-->
+        <!--                style="@style/Buttons"/>-->
+
+        <!--            <TextView-->
+        <!--                android:id="@+id/number3"-->
+        <!--                android:text="@string/three"-->
+        <!--                style="@style/Buttons"/>-->
+
+
+        <!--        </LinearLayout>-->
+
+        <!--        <LinearLayout-->
+        <!--            android:layout_weight="1"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="0dp"-->
+        <!--            android:orientation="horizontal">-->
+
+        <!--            <TextView-->
+        <!--                android:id="@+id/number4"-->
+        <!--                android:text="@string/four"-->
+        <!--                style="@style/Buttons"/>-->
+
+        <!--            <TextView-->
+        <!--                android:id="@+id/number5"-->
+        <!--                android:text="@string/five"-->
+        <!--                style="@style/Buttons"/>-->
+
+        <!--            <TextView-->
+        <!--                android:id="@+id/number6"-->
+        <!--                android:text="@string/six"-->
+        <!--                style="@style/Buttons"/>-->
+        <!--        </LinearLayout>-->
+
+        <!--        <LinearLayout-->
+        <!--            android:layout_weight="1"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="0dp"-->
+        <!--            android:orientation="horizontal">-->
+        <!--            <TextView-->
+        <!--                android:id="@+id/number7"-->
+        <!--                android:text="@string/seven"-->
+        <!--                style="@style/Buttons"/>-->
+
+        <!--            <TextView-->
+        <!--                android:id="@+id/number8"-->
+        <!--                android:text="@string/eight"-->
+        <!--                style="@style/Buttons"/>-->
+
+        <!--            <TextView-->
+        <!--                android:id="@+id/number9"-->
+        <!--                android:text="@string/nine"-->
+        <!--                style="@style/Buttons"/>-->
+
+        <!--        </LinearLayout>-->
+
+        <!--        <LinearLayout-->
+        <!--            android:layout_weight="1"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="0dp"-->
+        <!--            android:orientation="horizontal">-->
+
+        <!--            <TextView-->
+        <!--                android:id="@+id/number"-->
+        <!--                style="@style/Buttons"/>-->
+
+        <!--            <TextView-->
+        <!--                android:id="@+id/number0"-->
+        <!--                android:text="@string/zero"-->
+        <!--                style="@style/Buttons"/>-->
+
+        <!--            <ImageView-->
+        <!--                android:id="@+id/erase"-->
+        <!--                android:layout_gravity="center"-->
+        <!--                android:layout_weight="1"-->
+        <!--                android:layout_width="0dp"-->
+        <!--                android:layout_height="wrap_content"-->
+        <!--                android:src="@drawable/erase" />-->
+        <!--        </LinearLayout>-->
+
+<!--</LinearLayout>-->
+
+
+</FrameLayout>

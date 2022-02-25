@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BankApp</string>
+    <string name="security_screen">Security screen</string>
+    <string name="enter_your_passcode_or_create">Enter your passcode or Create</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="delete"><![CDATA[<-]]></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

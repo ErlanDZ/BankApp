@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp50">50dp</dimen>
+    <dimen name="key_padding">10dp</dimen>
+    <dimen name="pincode_dot_size">14dp</dimen>
+</resources>
